@@ -17,6 +17,7 @@
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/oracle.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/elastic.svg" title="Elastic" alt="Elastic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/flask.svg" title="Flask" **alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/pytorch.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/docker.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/spark.svg" title="Spark" **alt="Spark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
