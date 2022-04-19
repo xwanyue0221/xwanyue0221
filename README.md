@@ -23,3 +23,6 @@
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+## Status
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xwanyue0221&theme=dark&background=000000)](https://git.io/streak-stats)
+
