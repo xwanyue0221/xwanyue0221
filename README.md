@@ -1,5 +1,5 @@
 ## Hi, I am Poppy Xiao. 👋
-
+I am a Computer Science Student who is passinate about exploring more sides of the Data world, participating in activities to elevate people and building community.
 - 👩‍💻 I’m a Computer Science Graduate Student at Brandeis University.
 - 🙋‍♀️ I’m interested in Big Data Processing and Natural Language Processing.
 - 💞️ I’m looking to explore more sides of the data world.
@@ -27,6 +27,11 @@
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/tableau.svg" title="Tableau" **alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/looker.svg" title="Looker" **alt="Looker" width="40" height="40"/>&nbsp;
 </div>
+
+## Recent Projects
+- 
+
+
 
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwanyue0221&hide=html,css,scss&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
