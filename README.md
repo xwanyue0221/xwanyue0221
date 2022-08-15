@@ -21,7 +21,9 @@
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/docker.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/spark.svg" title="Spark" **alt="Spark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/databricks.svg"  title="databricks" alt="databricks" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/databricks.svg"  title="Databricks" alt="Databricks" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/dbt.svg" title="DBT" **alt="DBT" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/airflow.svg" title="Airflow" **alt="Airflow" width="40" height="40"/>&nbsp;
 </div>
 
 ## Status
