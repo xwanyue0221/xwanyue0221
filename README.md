@@ -2,7 +2,7 @@
 
 - 👩‍💻 I’m a Computer Science Graduate Student at Brandeis University.
 - 🙋‍♀️ I’m interested in Big Data Processing and Natural Language Processing.
-- 💞️ I’m looking to collaborate on developing an Information Retrieval System.
+- 💞️ I’m looking to explore more sides of the data world.
 - :coffee: I am a latte lover!
 
 ## Technologies & Tools
