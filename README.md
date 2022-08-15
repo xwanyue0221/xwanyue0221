@@ -21,7 +21,7 @@
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/docker.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/spark.svg" title="Spark" **alt="Spark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/r.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/xwanyue0221/Self-Learning/blob/main/icons/databricks.svg"  title="databricks" alt="databricks" width="40" height="40"/>&nbsp;
 </div>
 
 ## Status
