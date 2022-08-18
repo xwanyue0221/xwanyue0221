@@ -1,5 +1,5 @@
 ## Hi, I am Poppy Xiao. 👋
-I am a Computer Science Student who is passinate about exploring more sides of the Data world, participating in activities to elevate people and building community.
+I am a Computer Science Student who is passionate about exploring more sides of the Data world, participating in activities to elevate people and building community.
 - 👩‍💻 I’m a Computer Science Graduate Student at Brandeis University.
 - 🙋‍♀️ I’m interested in Big Data Processing and Natural Language Processing.
 - 💞️ I’m looking to explore more sides of the data world.
