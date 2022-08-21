@@ -40,6 +40,9 @@ I am a Computer Science Student who is passionate about exploring more sides of 
   - Course works that helped me to understand the NLP models, including Naïve Bayes, logistical regression (binary & multiclass), perceptron (binary & multiclass), neural network models (Multi-level Perceptron, Convolutional Networks, Recurrent Networks, distributed representations), Hidden Markov Models (HMM), Conditional Random Fields (CRF), Perceptron for sequence labeling, LSTM-CRF, Pretrained contextualized embeddings (BERT, GPT), Clustering (KNN).
 - [Data Structure](https://github.com/xwanyue0221/COSI21A_Data_Structure) - 2021/08 
 
+## Project Certificate
+- [Deploying Java-Maven Application With Jenkins CI/CD Tool](https://coursera.org/share/35e6c29890e1c64e9a56b21b961d6649) - 2022/08
+
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwanyue0221&hide=html,css,scss&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xwanyue0221&theme=tokyonight&background=000000)](https://git.io/streak-stats)
