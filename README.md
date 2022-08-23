@@ -30,13 +30,18 @@ I am a Computer Science Student who is passionate about exploring more sides of 
 
 ## Recent Projects
 - [Information Retrieval](https://github.com/xwanyue0221/COSI132A_Final_Project) - 2022/05 
-  - Built a search engine by uisng ElasticSearch with BM25 and MongoDB.
+  - **Knowledge/Skills/Tools/Framworks: NLP, ElasticSearch, Django, Flask, MongoDB**
+  - Purpose: Built a search engine by uisng ElasticSearch with BM25; used Django for front-end development; used Flask for back-end development; used MongoDB for data storage and indexing;
 - [Information Retrieval - Course Works](https://github.com/xwanyue0221/COSI132A-Information-Retrieval) - 2022/03 
-  - Designed a dynami web-based UI by using Flask and React.
+  - **Knowledge/Skills/Tools/Framworks: NLP, ElasticSearch, Flask, MongoDB, SQLite**
+  - Purpose: Designed a dynami web-based UI by using Flask; conducted several experiments with different sorting algorithms for document-level relevance calculation;
 - [Information Extraction](https://github.com/xwanyue0221/COSI137_Information_Extraction) - 2022/05
+  - **Knowledge/Skills/Tools/Framworks: NLP, PyTorch, Tensorflow, MXNet**
 - [Data Science Graduate Portfolio](https://github.com/xwanyue0221/Graduate-Portfolio) - 2021/02
+  - **Knowledge/Skills/Tools/Framworks: Data Science, Machine Learning, Data Visualization**
   - A portfolio which summarizes the projects I have done in Syracuse University
 - [Statistical Approaches to NLP](https://github.com/xwanyue0221/COSI134A_Statistical_Approaches_to_NLP) - 2022/03 
+  - **Knowledge/Skills/Tools/Framworks: NLP, Language Models, Seq2Seq Models **
   - Course works that helped me to understand the NLP models, including Naïve Bayes, logistical regression (binary & multiclass), perceptron (binary & multiclass), neural network models (Multi-level Perceptron, Convolutional Networks, Recurrent Networks, distributed representations), Hidden Markov Models (HMM), Conditional Random Fields (CRF), Perceptron for sequence labeling, LSTM-CRF, Pretrained contextualized embeddings (BERT, GPT), Clustering (KNN).
 - [Data Structure](https://github.com/xwanyue0221/COSI21A_Data_Structure) - 2021/08 
 
