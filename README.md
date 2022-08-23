@@ -41,7 +41,7 @@ I am a Computer Science Student who is passionate about exploring more sides of 
   - **Knowledge/Skills/Tools/Framworks: Data Science, Machine Learning, Data Visualization**
   - A portfolio which summarizes the projects I have done in Syracuse University
 - [Statistical Approaches to NLP](https://github.com/xwanyue0221/COSI134A_Statistical_Approaches_to_NLP) - 2022/03 
-  - **Knowledge/Skills/Tools/Framworks: NLP, Language Models, Seq2Seq Models **
+  - **Knowledge/Skills/Tools/Framworks: NLP, Language Models, Seq2Seq Models**
   - Course works that helped me to understand the NLP models, including Naïve Bayes, logistical regression (binary & multiclass), perceptron (binary & multiclass), neural network models (Multi-level Perceptron, Convolutional Networks, Recurrent Networks, distributed representations), Hidden Markov Models (HMM), Conditional Random Fields (CRF), Perceptron for sequence labeling, LSTM-CRF, Pretrained contextualized embeddings (BERT, GPT), Clustering (KNN).
 - [Data Structure](https://github.com/xwanyue0221/COSI21A_Data_Structure) - 2021/08 
 
