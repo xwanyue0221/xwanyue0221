@@ -38,7 +38,7 @@ I am a Computer Science Student who is passionate about exploring more sides of 
 - [Information Extraction](https://github.com/xwanyue0221/COSI137_Information_Extraction) - 2022/05
   - **Knowledge/Skills/Tools/Framworks: NLP, PyTorch, Tensorflow, MXNet**
 - [Data Science Graduate Portfolio](https://github.com/xwanyue0221/Graduate-Portfolio) - 2021/02
-  - **Knowledge/Skills/Tools/Framworks: Data Science, Machine Learning, Data Visualization**
+  - **Knowledge/Skills/Tools/Framworks: Data Science, Machine Learning, Data Visualization, Database Modeling**
   - A portfolio which summarizes the projects I have done in Syracuse University
 - [Statistical Approaches to NLP](https://github.com/xwanyue0221/COSI134A_Statistical_Approaches_to_NLP) - 2022/03 
   - **Knowledge/Skills/Tools/Framworks: NLP, Language Models, Seq2Seq Models**
